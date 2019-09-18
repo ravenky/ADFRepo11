@@ -137,7 +137,7 @@
 			]
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/dataflow22')]",
+			"name": "[concat(parameters('factoryName'), '/dataflow21')]",
 			"type": "Microsoft.DataFactory/factories/dataflows",
 			"apiVersion": "2018-06-01",
 			"properties": {
